@@ -46,6 +46,6 @@ This project uses **ROS2** for inter-component communication and control, along 
    ```bash
     ros2 run b3rb_ros_line_follower runner
 
-Contributing
+## Contributing
 
 Feel free to contribute by submitting issues or pull requests.
