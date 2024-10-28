@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/nav_sat_fix.pb.h

@@ -1,0 +1,6 @@
+Invoking command in '/home/vyom/cognipilot/electrode/build/electrode': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/electrode/src/electrode -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/electrode/install/electrode
+Invoked command in '/home/vyom/cognipilot/electrode/build/electrode' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/electrode/src/electrode -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/electrode/install/electrode
+Invoking command in '/home/vyom/cognipilot/electrode/build/electrode': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/electrode/build/electrode -- -j8 -l8
+Invoked command in '/home/vyom/cognipilot/electrode/build/electrode' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/electrode/build/electrode -- -j8 -l8
+Invoking command in '/home/vyom/cognipilot/electrode/build/electrode': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/electrode/build/electrode
+Invoked command in '/home/vyom/cognipilot/electrode/build/electrode' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/electrode/build/electrode

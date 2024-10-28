@@ -1,0 +1,6 @@
+/home/vyom/cognipilot/cranium/build/synapse_msgs/rosidl_adapter/synapse_msgs:msg/BezierCurve.idl
+/home/vyom/cognipilot/cranium/build/synapse_msgs/rosidl_adapter/synapse_msgs:msg/BezierTrajectory.idl
+/home/vyom/cognipilot/cranium/build/synapse_msgs/rosidl_adapter/synapse_msgs:msg/Status.idl
+/home/vyom/cognipilot/cranium/build/synapse_msgs/rosidl_adapter/synapse_msgs:msg/EdgeVectors.idl
+/home/vyom/cognipilot/cranium/build/synapse_msgs/rosidl_adapter/synapse_msgs:msg/TrafficStatus.idl
+/home/vyom/cognipilot/cranium/build/synapse_msgs/rosidl_adapter/synapse_msgs:msg/PixyVector.idl

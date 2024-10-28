@@ -1,0 +1,11 @@
+{
+  "package_name": "synapse_msgs",
+  "non_idl_tuples": [
+    "/home/vyom/cognipilot/cranium/src/synapse_msgs:msg/BezierCurve.msg",
+    "/home/vyom/cognipilot/cranium/src/synapse_msgs:msg/BezierTrajectory.msg",
+    "/home/vyom/cognipilot/cranium/src/synapse_msgs:msg/Status.msg",
+    "/home/vyom/cognipilot/cranium/src/synapse_msgs:msg/EdgeVectors.msg",
+    "/home/vyom/cognipilot/cranium/src/synapse_msgs:msg/TrafficStatus.msg",
+    "/home/vyom/cognipilot/cranium/src/synapse_msgs:msg/PixyVector.msg"
+  ]
+}

@@ -1,0 +1,24 @@
+package.xml
+setup.cfg
+setup.py
+../../build/b3rb_ros_line_follower/b3rb_ros_line_follower.egg-info/PKG-INFO
+../../build/b3rb_ros_line_follower/b3rb_ros_line_follower.egg-info/SOURCES.txt
+../../build/b3rb_ros_line_follower/b3rb_ros_line_follower.egg-info/dependency_links.txt
+../../build/b3rb_ros_line_follower/b3rb_ros_line_follower.egg-info/entry_points.txt
+../../build/b3rb_ros_line_follower/b3rb_ros_line_follower.egg-info/requires.txt
+../../build/b3rb_ros_line_follower/b3rb_ros_line_follower.egg-info/top_level.txt
+../../build/b3rb_ros_line_follower/b3rb_ros_line_follower.egg-info/zip-safe
+b3rb_ros_line_follower/__init__.py
+b3rb_ros_line_follower/b3rb_ros_edge_vectors.py
+b3rb_ros_line_follower/b3rb_ros_line_follower.py
+b3rb_ros_line_follower/b3rb_ros_object_recog.py
+b3rb_ros_line_follower/import rclpy.py
+b3rb_ros_line_follower/import rclpy_2.py
+b3rb_ros_line_follower.egg-info/PKG-INFO
+b3rb_ros_line_follower.egg-info/SOURCES.txt
+b3rb_ros_line_follower.egg-info/dependency_links.txt
+b3rb_ros_line_follower.egg-info/entry_points.txt
+b3rb_ros_line_follower.egg-info/requires.txt
+b3rb_ros_line_follower.egg-info/top_level.txt
+b3rb_ros_line_follower.egg-info/zip-safe
+resource/b3rb_ros_line_follower

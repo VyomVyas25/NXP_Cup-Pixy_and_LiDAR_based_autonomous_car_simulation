@@ -1,0 +1,3 @@
+/home/vyom/cognipilot/cranium/install/synapse_tinyframe/lib/libsynapse_tinyframe.a
+/home/vyom/cognipilot/cranium/install/synapse_tinyframe/share/synapse_tinyframe/cmake/synapse_tinyframeExport.cmake
+/home/vyom/cognipilot/cranium/install/synapse_tinyframe/share/synapse_tinyframe/cmake/synapse_tinyframeExport-noconfig.cmake

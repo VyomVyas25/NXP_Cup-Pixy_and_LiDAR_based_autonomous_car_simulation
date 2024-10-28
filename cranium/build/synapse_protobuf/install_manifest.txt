@@ -1,0 +1,3 @@
+/home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/synapse_protobufExport.cmake
+/home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/synapse_protobufExport-noconfig.cmake
+/home/vyom/cognipilot/cranium/install/synapse_protobuf/lib/libsynapse_protobuf.a

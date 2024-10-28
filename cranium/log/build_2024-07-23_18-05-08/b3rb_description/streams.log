@@ -1,0 +1,52 @@
+[0.023s] Invoking command in '/home/vyom/cognipilot/cranium/build/b3rb_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/cranium/src/b3rb/b3rb_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/b3rb_description
+[0.171s] -- The C compiler identification is GNU 11.4.0
+[0.341s] -- The CXX compiler identification is GNU 11.4.0
+[0.353s] -- Detecting C compiler ABI info
+[0.496s] -- Detecting C compiler ABI info - done
+[0.499s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.500s] -- Detecting C compile features
+[0.500s] -- Detecting C compile features - done
+[0.504s] -- Detecting CXX compiler ABI info
+[0.645s] -- Detecting CXX compiler ABI info - done
+[0.662s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.662s] -- Detecting CXX compile features
+[0.662s] -- Detecting CXX compile features - done
+[0.671s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.004s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.144s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.188s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[1.326s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.471s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.472s] -- Added test 'lint_cmake' to check CMake code style
+[1.472s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.472s] -- Added test 'xmllint' to check XML markup files
+[1.474s] -- Configuring done
+[1.480s] -- Generating done
+[1.482s] -- Build files have been written to: /home/vyom/cognipilot/cranium/build/b3rb_description
+[1.492s] Invoked command in '/home/vyom/cognipilot/cranium/build/b3rb_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/cranium/src/b3rb/b3rb_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/b3rb_description
+[1.493s] Invoking command in '/home/vyom/cognipilot/cranium/build/b3rb_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/b3rb_description -- -j8 -l8
+[1.559s] Invoked command in '/home/vyom/cognipilot/cranium/build/b3rb_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/b3rb_description -- -j8 -l8
+[1.599s] Invoking command in '/home/vyom/cognipilot/cranium/build/b3rb_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/b3rb_description
+[1.611s] -- Install configuration: ""
+[1.611s] -- Execute custom install script
+[1.612s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/launch/robot_description.launch.py
+[1.628s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/meshes/STL27L.dae
+[1.643s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/meshes/b3rb.dae
+[1.657s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/meshes/wheel.dae
+[1.670s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/urdf/b3rb.urdf
+[1.682s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/ament_index/resource_index/package_run_dependencies/b3rb_description
+[1.696s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/ament_index/resource_index/parent_prefix_path/b3rb_description
+[1.726s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/environment/ament_prefix_path.sh
+[1.726s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/environment/ament_prefix_path.dsv
+[1.739s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/environment/path.sh
+[1.744s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/environment/path.dsv
+[1.770s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/local_setup.bash
+[1.774s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/local_setup.sh
+[1.800s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/local_setup.zsh
+[1.817s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/local_setup.dsv
+[1.817s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/package.dsv
+[1.834s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/ament_index/resource_index/packages/b3rb_description
+[1.856s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/cmake/b3rb_descriptionConfig.cmake
+[1.905s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/cmake/b3rb_descriptionConfig-version.cmake
+[1.920s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_description/share/b3rb_description/package.xml
+[1.921s] Invoked command in '/home/vyom/cognipilot/cranium/build/b3rb_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/b3rb_description

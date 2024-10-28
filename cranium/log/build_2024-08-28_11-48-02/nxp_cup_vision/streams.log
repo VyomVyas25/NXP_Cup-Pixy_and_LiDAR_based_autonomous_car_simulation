@@ -1,0 +1,32 @@
+[1.735s] Invoking command in '/home/vyom/cognipilot/cranium/build/nxp_cup_vision': CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/home/vyom/cognipilot/cranium/install/synapse_ros:/home/vyom/cognipilot/cranium/install/synapse_gz:/home/vyom/cognipilot/cranium/install/synapse_tinyframe:/home/vyom/cognipilot/cranium/install/synapse_protobuf:/home/vyom/cognipilot/cranium/install/corti:/home/vyom/cognipilot/cranium/install/dream_world:/home/vyom/cognipilot/cranium/install/cerebri_bringup:/home/vyom/cognipilot/cranium/install/b3rb_simulator:/home/vyom/cognipilot/cranium/install/b3rb_desktop:/home/vyom/cognipilot/cranium/install/b3rb_rviz:/home/vyom/cognipilot/cranium/install/b3rb_nav2:/home/vyom/cognipilot/cranium/install/b3rb_gz_resource:/home/vyom/cognipilot/cranium/install/b3rb_gz_bringup:/home/vyom/cognipilot/cranium/install/b3rb_description:/home/vyom/cognipilot/electrode/install/electrode LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:/home/vyom/cognipilot/cranium/install/synapse_tinyframe/lib:/home/vyom/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/vyom/cognipilot/cranium/build/nxp_cup_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vyom/cognipilot/cranium/install/nxp_cup_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vyom/cognipilot/cranium/build/nxp_cup_vision/build --no-deps symlink_data
+[1.967s] /home/vyom/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:268: UserWarning: Unknown distribution option: 'tests_require'
+[1.967s]   warnings.warn(msg)
+[2.222s] running develop
+[2.222s] /home/vyom/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.222s] !!
+[2.222s] 
+[2.222s]         ********************************************************************************
+[2.222s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.222s]         Instead, use pypa/build, pypa/installer or other
+[2.223s]         standards-based tools.
+[2.223s] 
+[2.223s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.223s]         ********************************************************************************
+[2.223s] 
+[2.223s] !!
+[2.223s]   easy_install.initialize_options(self)
+[2.549s] running egg_info
+[2.571s] writing nxp_cup_vision.egg-info/PKG-INFO
+[2.572s] writing dependency_links to nxp_cup_vision.egg-info/dependency_links.txt
+[2.572s] writing entry points to nxp_cup_vision.egg-info/entry_points.txt
+[2.572s] writing requirements to nxp_cup_vision.egg-info/requires.txt
+[2.572s] writing top-level names to nxp_cup_vision.egg-info/top_level.txt
+[2.622s] reading manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[2.624s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[2.723s] running build_ext
+[2.724s] Creating /home/vyom/cognipilot/cranium/install/nxp_cup_vision/lib/python3.10/site-packages/nxp-cup-vision.egg-link (link to .)
+[2.725s] Installing nxp_track_vision script to /home/vyom/cognipilot/cranium/install/nxp_cup_vision/lib/nxp_cup_vision
+[2.726s] 
+[2.726s] Installed /home/vyom/cognipilot/cranium/build/nxp_cup_vision
+[2.726s] running symlink_data
+[2.796s] Invoked command in '/home/vyom/cognipilot/cranium/build/nxp_cup_vision' returned '0': CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/home/vyom/cognipilot/cranium/install/synapse_ros:/home/vyom/cognipilot/cranium/install/synapse_gz:/home/vyom/cognipilot/cranium/install/synapse_tinyframe:/home/vyom/cognipilot/cranium/install/synapse_protobuf:/home/vyom/cognipilot/cranium/install/corti:/home/vyom/cognipilot/cranium/install/dream_world:/home/vyom/cognipilot/cranium/install/cerebri_bringup:/home/vyom/cognipilot/cranium/install/b3rb_simulator:/home/vyom/cognipilot/cranium/install/b3rb_desktop:/home/vyom/cognipilot/cranium/install/b3rb_rviz:/home/vyom/cognipilot/cranium/install/b3rb_nav2:/home/vyom/cognipilot/cranium/install/b3rb_gz_resource:/home/vyom/cognipilot/cranium/install/b3rb_gz_bringup:/home/vyom/cognipilot/cranium/install/b3rb_description:/home/vyom/cognipilot/electrode/install/electrode LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:/home/vyom/cognipilot/cranium/install/synapse_tinyframe/lib:/home/vyom/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/vyom/cognipilot/cranium/build/nxp_cup_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vyom/cognipilot/cranium/install/nxp_cup_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vyom/cognipilot/cranium/build/nxp_cup_vision/build --no-deps symlink_data

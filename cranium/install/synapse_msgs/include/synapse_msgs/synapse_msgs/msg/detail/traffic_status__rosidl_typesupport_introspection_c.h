@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/build/synapse_msgs/rosidl_typesupport_introspection_c/synapse_msgs/msg/detail/traffic_status__rosidl_typesupport_introspection_c.h

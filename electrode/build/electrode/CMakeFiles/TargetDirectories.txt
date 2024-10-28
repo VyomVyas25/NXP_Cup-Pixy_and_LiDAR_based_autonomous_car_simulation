@@ -1,0 +1,9 @@
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/uninstall.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/electrode_uninstall.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/test.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/edit_cache.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/rebuild_cache.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/list_install_components.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/install.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/install/local.dir
+/home/vyom/cognipilot/electrode/build/electrode/CMakeFiles/install/strip.dir

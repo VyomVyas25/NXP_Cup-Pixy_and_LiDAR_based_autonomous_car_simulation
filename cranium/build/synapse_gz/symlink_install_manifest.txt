@@ -1,0 +1,17 @@
+/home/vyom/cognipilot/cranium/install/synapse_gz/lib/synapse_gz/synapse_gz
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/launch/synapse_gz.launch.py
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/ament_index/resource_index/package_run_dependencies/synapse_gz
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/ament_index/resource_index/parent_prefix_path/synapse_gz
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/ament_prefix_path.sh
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/ament_prefix_path.dsv
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/path.sh
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/path.dsv
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.bash
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.sh
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.zsh
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.dsv
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/package.dsv
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/ament_index/resource_index/packages/synapse_gz
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/cmake/synapse_gzConfig.cmake
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/cmake/synapse_gzConfig-version.cmake
+/home/vyom/cognipilot/cranium/install/synapse_gz/share/synapse_gz/package.xml

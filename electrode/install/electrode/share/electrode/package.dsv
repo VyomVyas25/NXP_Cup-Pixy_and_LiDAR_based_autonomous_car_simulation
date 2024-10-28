@@ -1,0 +1,8 @@
+source;share/electrode/hook/cmake_prefix_path.ps1
+source;share/electrode/hook/cmake_prefix_path.dsv
+source;share/electrode/hook/cmake_prefix_path.sh
+source;share/electrode/local_setup.bash
+source;share/electrode/local_setup.dsv
+source;share/electrode/local_setup.ps1
+source;share/electrode/local_setup.sh
+source;share/electrode/local_setup.zsh

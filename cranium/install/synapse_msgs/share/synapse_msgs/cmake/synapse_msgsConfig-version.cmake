@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/build/synapse_msgs/ament_cmake_core/synapse_msgsConfig-version.cmake

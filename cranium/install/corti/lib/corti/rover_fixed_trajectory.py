@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/src/corti/scripts/rover_fixed_trajectory.py

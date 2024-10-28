@@ -1,0 +1,117 @@
+[0.042s] Invoking command in '/home/vyom/cognipilot/cranium/build/dream_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/cranium/src/dream_world -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/dream_world
+[0.162s] -- The C compiler identification is GNU 11.4.0
+[0.239s] -- The CXX compiler identification is GNU 11.4.0
+[0.252s] -- Detecting C compiler ABI info
+[0.409s] -- Detecting C compiler ABI info - done
+[0.424s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.425s] -- Detecting C compile features
+[0.425s] -- Detecting C compile features - done
+[0.449s] -- Detecting CXX compiler ABI info
+[0.691s] -- Detecting CXX compiler ABI info - done
+[0.727s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.727s] -- Detecting CXX compile features
+[0.727s] -- Detecting CXX compile features - done
+[0.727s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.189s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.425s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.504s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.742s] -- Added test 'lint_cmake' to check CMake code style
+[1.770s] -- Added test 'xmllint' to check XML markup files
+[1.786s] -- Configuring done
+[1.791s] -- Generating done
+[1.793s] -- Build files have been written to: /home/vyom/cognipilot/cranium/build/dream_world
+[1.823s] Invoked command in '/home/vyom/cognipilot/cranium/build/dream_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/cranium/src/dream_world -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/dream_world
+[1.824s] Invoking command in '/home/vyom/cognipilot/cranium/build/dream_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/dream_world -- -j8 -l8
+[2.001s] Invoked command in '/home/vyom/cognipilot/cranium/build/dream_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/dream_world -- -j8 -l8
+[2.346s] Invoking command in '/home/vyom/cognipilot/cranium/build/dream_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/dream_world
+[2.392s] -- Install configuration: ""
+[2.392s] -- Execute custom install script
+[2.392s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/scripts/model.material
+[2.411s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Albedo.png
+[2.433s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Emissive.png
+[2.480s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Metalness.png
+[2.507s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Normal.png
+[2.541s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Roughness.png
+[2.580s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_BaseColor.png
+[2.617s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_Normal.png
+[2.640s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_Roughness.png
+[2.670s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/DepotLightmap.png
+[2.686s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Albedo.png
+[2.701s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Metalness.png
+[2.754s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Normal.png
+[2.769s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Roughness.png
+[2.795s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Albedo.png
+[2.821s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Metalness.png
+[2.843s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Normal.png
+[2.956s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Roughness.png
+[2.957s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FanBack_FanBack_BaseColor.png
+[2.957s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Albedo.png
+[2.957s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Metalness.png
+[2.979s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Normal.png
+[3.008s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Roughness.png
+[3.043s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Albedo.png
+[3.081s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Metalness.png
+[3.093s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Normal.png
+[3.114s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Roughness.png
+[3.154s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_BaseColor.png
+[3.186s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Metallic.png
+[3.201s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Normal.png
+[3.215s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Roughness.png
+[3.257s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Albedo.png
+[3.304s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Emissive.png
+[3.304s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Metalness.png
+[3.346s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Normal.png
+[3.378s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Roughness.png
+[3.416s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Albedo.png
+[3.456s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Metalness.png
+[3.501s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Normal.png
+[3.558s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Roughness.png
+[3.600s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Albedo.png
+[3.653s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Metalness.png
+[3.696s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Normal.png
+[3.732s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Roughness.png
+[3.776s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Albedo.png
+[3.821s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Emissive.png
+[3.849s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Metalness.png
+[3.893s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Normal.png
+[3.941s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Roughness.png
+[3.985s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Albedo.png
+[4.020s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Metalness.png
+[4.060s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Normal.png
+[4.105s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Roughness.png
+[4.148s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Albedo.png
+[4.188s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Metalness.png
+[4.228s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Normal.png
+[4.264s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Roughness.png
+[4.301s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_BaseColor.png
+[4.340s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_Metallic.png
+[4.376s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_Roughness.png
+[4.417s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/meshes/Crates.dae
+[4.449s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/meshes/Depot.dae
+[4.476s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/model.config
+[4.517s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/model.sdf
+[4.546s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/0.png
+[4.576s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/1.png
+[4.614s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/2.png
+[4.660s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/3.png
+[4.688s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/4.png
+[4.732s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/5.png
+[4.761s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/basic_map.sdf
+[4.828s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/depot.sdf
+[4.843s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/dream_world.dsv
+[4.856s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/package_run_dependencies/dream_world
+[4.869s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/parent_prefix_path/dream_world
+[4.883s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/ament_prefix_path.sh
+[4.918s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/ament_prefix_path.dsv
+[4.949s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/path.sh
+[5.000s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/path.dsv
+[5.048s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.bash
+[5.077s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.sh
+[5.114s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.zsh
+[5.156s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.dsv
+[5.196s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/package.dsv
+[5.237s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/packages/dream_world
+[5.296s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/cmake/dream_worldConfig.cmake
+[5.321s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/cmake/dream_worldConfig-version.cmake
+[5.355s] -- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/package.xml
+[5.395s] Invoked command in '/home/vyom/cognipilot/cranium/build/dream_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/dream_world

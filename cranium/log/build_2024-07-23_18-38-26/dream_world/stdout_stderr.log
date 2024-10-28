@@ -1,0 +1,246 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vyom/cognipilot/cranium/build/dream_world
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/materials/coke.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/meshes/coke.mtl
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/meshes/coke.obj
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/thumbnails/1.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/thumbnails/2.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/thumbnails/3.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/thumbnails/4.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Coke/thumbnails/5.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Construction_Cone_mini/materials/scripts/Construction_Cone.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Construction_Cone_mini/materials/textures/Construction_Cone_Diffuse.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Construction_Cone_mini/materials/textures/cone.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Construction_Cone_mini/meshes/construction_cone.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Construction_Cone_mini/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Construction_Cone_mini/model.sdf
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/scripts/model.material
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Emissive.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_BaseColor.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/DepotLightmap.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FanBack_FanBack_BaseColor.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_BaseColor.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Metallic.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Emissive.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Emissive.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Albedo.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Metalness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Normal.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_BaseColor.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_Metallic.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_Roughness.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/meshes/Crates.dae
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/meshes/Depot.dae
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/model.config
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/model.sdf
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/0.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/1.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/2.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/3.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/4.png
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/5.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/LICENSE
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/BridgeWallCollision.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/BridgeWallCollision_2 (copy).dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/BridgeWallCollision_2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/Bridge_new.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/Raceway2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/Track.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/Track_2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/bridge_extension.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/bridge_exterior.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/bridge_interior.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/bridge_side.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/rumble_new.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/tunnel.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/meshes/tunnel2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Grand_Finale_Track/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_bad.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_last.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_latest.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_nice.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_not.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_ok.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_old_white.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_olddd.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_sofa.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_test.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_white.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_white_lligt.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/meshes/NXP_AIM_S3_Qualifiers_Track_working.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/NXP_AIM_S3_Qualifiers_Track/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/LICENSE
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/Bridge.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/Bridge_new.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/Rumble.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/Track.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/bridge_extension.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/bridge_side.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/rumble_new.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/track2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/tunnel.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/meshes/tunnel2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_1/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/LICENSE
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/meshes/BridgeWallCollision.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/meshes/BridgeWallCollision_2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/meshes/Raceway2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/meshes/Track.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/meshes/Track_2.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/meshes/bridge_exterior.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/meshes/bridge_interior.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/Raceway_2/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/barricade/materials/scripts/barricade.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/barricade/materials/textures/barricade.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/barricade/materials/textures/blue.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/barricade/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/barricade/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car/materials/textures/hatchback_grey.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car/materials/textures/wheels2.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car/meshes/hatchback_grey.mtl
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car/meshes/hatchback_grey.obj
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car_blue/materials/textures/hatchback.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car_blue/meshes/hatchback.mtl
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car_blue/meshes/hatchback.obj
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car_blue/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/car_blue/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/finish_line/materials/scripts/finish_line.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/finish_line/materials/textures/finish.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/finish_line/materials/textures/finish1.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/finish_line/materials/textures/race.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/finish_line/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/finish_line/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/fire_hydrant/materials/textures/fire_hydrant_diffuse.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/fire_hydrant/materials/textures/fire_hydrant_spec.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/fire_hydrant/meshes/fire_hydrant.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/fire_hydrant/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/fire_hydrant/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/materials/textures/hatchback_red.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/meshes/hatchback_red.mtl
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/meshes/hatchback_red.obj
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/thumbnails/1.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/thumbnails/2.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/thumbnails/3.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/thumbnails/4.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/hatchback_red/thumbnails/5.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/materials/scripts/caster_fp.glsl
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/materials/scripts/caster_vp.glsl
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/materials/scripts/oak_tree.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/materials/textures/bark_diffuse.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/materials/textures/branch_diffuse.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/meshes/oak_tree.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/oak_tree_mini/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_point/materials/scripts/start_point.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_point/materials/textures/race.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_point/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_point/start_point.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_sign/materials/scripts/stop.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_sign/materials/textures/blue.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_sign/materials/textures/green.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_sign/materials/textures/red.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_sign/materials/textures/start.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_sign/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/start_sign/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_sign/materials/scripts/stop.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_sign/materials/textures/Stop.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_sign/materials/textures/blue.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_sign/materials/textures/green.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_sign/materials/textures/red.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_sign/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_sign/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_traffic_sign/materials/scripts/stop.material
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_traffic_sign/materials/textures/Stop.png
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_traffic_sign/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/stop_traffic_sign/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/test_track_v12/meshes/test_track_v12.dae
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/test_track_v12/model.config
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/models/test_track_v12/model.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/Grand_Finale_Track.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/NXP_AIM_S3_Qualifiers_Track.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/Raceway_1.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/Raceway_1_difficult.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/Raceway_2.sdf
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/basic_map.sdf
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/depot.sdf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/worlds/test_track_v12.sdf
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/dream_world.dsv
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/package_run_dependencies/dream_world
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/parent_prefix_path/dream_world
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/path.sh
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/environment/path.dsv
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.bash
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.sh
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.zsh
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.dsv
+-- Symlinking: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/package.dsv
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/packages/dream_world
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/cmake/dream_worldConfig.cmake
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/cmake/dream_worldConfig-version.cmake
+-- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/dream_world/share/dream_world/package.xml

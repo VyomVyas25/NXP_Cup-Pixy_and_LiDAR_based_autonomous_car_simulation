@@ -1,0 +1,4 @@
+source;share/electrode/local_setup.bash
+source;share/electrode/local_setup.dsv
+source;share/electrode/local_setup.sh
+source;share/electrode/local_setup.zsh

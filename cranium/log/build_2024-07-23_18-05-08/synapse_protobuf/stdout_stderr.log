@@ -1,0 +1,132 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+-- proto_src: /home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/actuators.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/altimeter.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/battery_state.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/bezier_curve.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/bezier_trajectory.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/can.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/header.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/imu.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/joy.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/led.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/led_array.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/magnetic_field.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/nav_sat_fix.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/nav_sat_status.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/odometry.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/point.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/pose.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/pose_with_covariance.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/quaternion.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/safety.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/sim_clock.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/status.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/time.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/twist.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/twist_with_covariance.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/vector3.pb.cc;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/wheel_odometry.pb.cc
+-- proto_hdrs: /home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/actuators.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/altimeter.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/battery_state.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/bezier_curve.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/bezier_trajectory.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/can.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/header.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/imu.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/joy.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/led.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/led_array.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/magnetic_field.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/nav_sat_fix.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/nav_sat_status.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/odometry.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/point.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/pose.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/pose_with_covariance.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/quaternion.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/safety.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/sim_clock.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/status.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/time.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/twist.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/twist_with_covariance.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/vector3.pb.h;/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/wheel_odometry.pb.h
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vyom/cognipilot/cranium/build/synapse_protobuf
+[  5%] Running cpp protocol buffer compiler on altimeter.proto
+[  5%] Running cpp protocol buffer compiler on actuators.proto
+[  5%] Running cpp protocol buffer compiler on wheel_odometry.proto
+[  7%] Running cpp protocol buffer compiler on battery_state.proto
+[  9%] Running cpp protocol buffer compiler on bezier_curve.proto
+[ 10%] Running cpp protocol buffer compiler on bezier_trajectory.proto
+[ 12%] Running cpp protocol buffer compiler on can.proto
+[ 14%] Running cpp protocol buffer compiler on header.proto
+[ 16%] Running cpp protocol buffer compiler on joy.proto
+[ 18%] Running cpp protocol buffer compiler on imu.proto
+[ 20%] Running cpp protocol buffer compiler on led.proto
+[ 21%] Running cpp protocol buffer compiler on led_array.proto
+[ 23%] Running cpp protocol buffer compiler on magnetic_field.proto
+[ 25%] Running cpp protocol buffer compiler on odometry.proto
+[ 27%] Running cpp protocol buffer compiler on nav_sat_fix.proto
+[ 29%] Running cpp protocol buffer compiler on nav_sat_status.proto
+[ 30%] Running cpp protocol buffer compiler on point.proto
+[ 32%] Running cpp protocol buffer compiler on pose.proto
+[ 34%] Running cpp protocol buffer compiler on pose_with_covariance.proto
+[ 36%] Running cpp protocol buffer compiler on quaternion.proto
+[ 38%] Running cpp protocol buffer compiler on safety.proto
+[ 40%] Running cpp protocol buffer compiler on time.proto
+[ 41%] Running cpp protocol buffer compiler on status.proto
+[ 45%] Running cpp protocol buffer compiler on sim_clock.proto
+[ 45%] Running cpp protocol buffer compiler on twist_with_covariance.proto
+[ 47%] Running cpp protocol buffer compiler on twist.proto
+[ 49%] Running cpp protocol buffer compiler on vector3.proto
+[ 50%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/actuators.pb.cc.o
+[ 52%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/battery_state.pb.cc.o
+[ 54%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/altimeter.pb.cc.o
+[ 60%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/bezier_trajectory.pb.cc.o
+[ 60%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/bezier_curve.pb.cc.o
+[ 60%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/can.pb.cc.o
+[ 61%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/header.pb.cc.o
+[ 63%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/imu.pb.cc.o
+[ 65%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/led.pb.cc.o
+[ 67%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/joy.pb.cc.o
+[ 69%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/led_array.pb.cc.o
+[ 70%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/magnetic_field.pb.cc.o
+[ 72%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/nav_sat_fix.pb.cc.o
+[ 74%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/nav_sat_status.pb.cc.o
+[ 76%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/odometry.pb.cc.o
+[ 78%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/point.pb.cc.o
+[ 80%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/pose.pb.cc.o
+[ 81%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/pose_with_covariance.pb.cc.o
+[ 83%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/quaternion.pb.cc.o
+[ 85%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/safety.pb.cc.o
+[ 87%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/sim_clock.pb.cc.o
+[ 89%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/status.pb.cc.o
+[ 90%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/time.pb.cc.o
+[ 92%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/twist.pb.cc.o
+[ 94%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/twist_with_covariance.pb.cc.o
+[ 96%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/vector3.pb.cc.o
+[ 98%] Building CXX object proto/CMakeFiles/synapse_protobuf.dir/wheel_odometry.pb.cc.o
+[100%] Linking CXX static library libsynapse_protobuf.a
+[100%] Built target synapse_protobuf
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/actuators.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/altimeter.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/battery_state.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/bezier_curve.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/bezier_trajectory.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/can.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/header.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/imu.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/joy.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/led.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/led_array.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/magnetic_field.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/nav_sat_fix.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/nav_sat_status.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/odometry.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/point.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/pose.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/pose_with_covariance.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/quaternion.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/safety.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/sim_clock.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/status.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/time.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/twist.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/twist_with_covariance.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/vector3.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/include/synapse_protobuf/wheel_odometry.pb.h
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/environment/library_path.sh
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/environment/library_path.dsv
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/ament_index/resource_index/package_run_dependencies/synapse_protobuf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/ament_index/resource_index/parent_prefix_path/synapse_protobuf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/environment/ament_prefix_path.sh
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/environment/ament_prefix_path.dsv
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/environment/path.sh
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/environment/path.dsv
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/local_setup.bash
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/local_setup.sh
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/local_setup.zsh
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/local_setup.dsv
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/package.dsv
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/ament_index/resource_index/packages/synapse_protobuf
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/ament_cmake_export_targets-extras.cmake
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/synapse_protobufConfig.cmake
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/synapse_protobufConfig-version.cmake
+-- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/package.xml
+-- Installing: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/synapse_protobufExport.cmake
+-- Installing: /home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake/synapse_protobufExport-noconfig.cmake
+-- Installing: /home/vyom/cognipilot/cranium/install/synapse_protobuf/lib/libsynapse_protobuf.a

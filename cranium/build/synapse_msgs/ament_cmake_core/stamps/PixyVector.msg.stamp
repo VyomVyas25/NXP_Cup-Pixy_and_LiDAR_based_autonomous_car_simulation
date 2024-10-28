@@ -1,0 +1,14 @@
+std_msgs/Header header
+
+# First vector coordinates
+int32 m0_x0
+int32 m0_y0
+int32 m0_x1
+int32 m0_y1
+
+# Second vector coordinates
+int32 m1_x0
+int32 m1_y0
+int32 m1_x1
+int32 m1_y1
+

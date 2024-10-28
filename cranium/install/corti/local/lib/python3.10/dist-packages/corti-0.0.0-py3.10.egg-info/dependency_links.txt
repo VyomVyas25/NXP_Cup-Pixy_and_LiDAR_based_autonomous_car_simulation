@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/build/corti/ament_cmake_python/corti/corti.egg-info/dependency_links.txt

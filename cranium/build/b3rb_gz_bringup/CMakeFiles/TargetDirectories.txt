@@ -1,0 +1,9 @@
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/uninstall.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/b3rb_gz_bringup_uninstall.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/test.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/edit_cache.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/rebuild_cache.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/list_install_components.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/install.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/install/local.dir
+/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup/CMakeFiles/install/strip.dir

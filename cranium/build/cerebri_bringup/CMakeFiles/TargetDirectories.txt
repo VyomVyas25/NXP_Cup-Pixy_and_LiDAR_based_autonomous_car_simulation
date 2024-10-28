@@ -1,0 +1,9 @@
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/uninstall.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/cerebri_bringup_uninstall.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/test.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/edit_cache.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/rebuild_cache.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/list_install_components.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/install.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/install/local.dir
+/home/vyom/cognipilot/cranium/build/cerebri_bringup/CMakeFiles/install/strip.dir

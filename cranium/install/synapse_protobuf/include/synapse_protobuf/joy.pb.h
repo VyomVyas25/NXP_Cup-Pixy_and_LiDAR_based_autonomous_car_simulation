@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/build/synapse_protobuf/proto/joy.pb.h

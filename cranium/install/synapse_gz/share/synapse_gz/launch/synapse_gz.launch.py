@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/src/synapse_gz/launch/synapse_gz.launch.py

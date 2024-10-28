@@ -1,0 +1,43 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found actuator_msgs: 0.0.1 (/opt/ros/humble/share/actuator_msgs/cmake)
+-- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+-- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found synapse_protobuf: 0.0.0 (/home/vyom/cognipilot/cranium/install/synapse_protobuf/share/synapse_protobuf/cmake)
+-- Found synapse_tinyframe: 0.0.0 (/home/vyom/cognipilot/cranium/install/synapse_tinyframe/share/synapse_tinyframe/cmake)
+-- Found synapse_msgs: 0.0.1 (/home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vyom/cognipilot/cranium/build/synapse_ros
+Consolidate compiler generated dependencies of target synapse_ros
+[ 33%] Building CXX object CMakeFiles/synapse_ros.dir/src/proto/udp_link.cpp.o
+[ 66%] Building CXX object CMakeFiles/synapse_ros.dir/src/synapse_ros.cpp.o
+[100%] Linking CXX executable synapse_ros
+/usr/bin/ld: CMakeFiles/synapse_ros.dir/src/synapse_ros.cpp.o: in function `std::enable_if<rosidl_generator_traits::is_message<synapse_msgs::msg::PixyVector_<std::allocator<void> > >::value, rosidl_message_type_support_t const&>::type rclcpp::get_message_type_support_handle<synapse_msgs::msg::PixyVector_<std::allocator<void> > >()':
+synapse_ros.cpp:(.text._ZN6rclcpp31get_message_type_support_handleIN12synapse_msgs3msg11PixyVector_ISaIvEEEEENSt9enable_ifIXsrN23rosidl_generator_traits10is_messageIT_EE5valueERK29rosidl_message_type_support_tE4typeEv[_ZN6rclcpp31get_message_type_support_handleIN12synapse_msgs3msg11PixyVector_ISaIvEEEEENSt9enable_ifIXsrN23rosidl_generator_traits10is_messageIT_EE5valueERK29rosidl_message_type_support_tE4typeEv]+0x10): undefined reference to `rosidl_message_type_support_t const* rosidl_typesupport_cpp::get_message_type_support_handle<synapse_msgs::msg::PixyVector_<std::allocator<void> > >()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/synapse_ros.dir/build.make:218: synapse_ros] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/synapse_ros.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

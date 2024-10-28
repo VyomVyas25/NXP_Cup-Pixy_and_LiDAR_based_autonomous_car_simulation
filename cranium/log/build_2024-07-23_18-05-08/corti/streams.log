@@ -1,0 +1,119 @@
+[0.008s] Invoking command in '/home/vyom/cognipilot/cranium/build/corti': AMENT_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/vyom/cognipilot/cranium/src/corti -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/corti
+[0.056s] -- The C compiler identification is GNU 11.4.0
+[0.105s] -- The CXX compiler identification is GNU 11.4.0
+[0.113s] -- Detecting C compiler ABI info
+[0.174s] -- Detecting C compiler ABI info - done
+[0.182s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.182s] -- Detecting C compile features
+[0.182s] -- Detecting C compile features - done
+[0.185s] -- Detecting CXX compiler ABI info
+[0.255s] -- Detecting CXX compiler ABI info - done
+[0.262s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.262s] -- Detecting CXX compile features
+[0.263s] -- Detecting CXX compile features - done
+[0.265s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.443s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.547s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.577s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.634s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.641s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.654s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.677s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.704s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.837s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[1.002s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[1.108s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.112s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.170s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.186s] -- Looking for pthread.h
+[1.274s] -- Looking for pthread.h - found
+[1.274s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.353s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.354s] -- Found Threads: TRUE  
+[1.607s] -- Found rclpy: 3.3.13 (/opt/ros/humble/share/rclpy/cmake)
+[1.608s] -- Found synapse_msgs: 0.0.1 (/home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake)
+[1.700s] -- Found tf2: 0.25.7 (/opt/ros/humble/share/tf2/cmake)
+[1.728s] -- Found tf2_ros: 0.25.7 (/opt/ros/humble/share/tf2_ros/cmake)
+[2.439s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.639s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.639s] -- Configured cppcheck include dirs: 
+[2.640s] -- Configured cppcheck exclude dirs and/or files: 
+[2.641s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.643s] -- Added test 'lint_cmake' to check CMake code style
+[2.644s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.650s] -- Added test 'uncrustify' to check C / C++ code style
+[2.650s] -- Configured uncrustify additional arguments: 
+[2.651s] -- Added test 'xmllint' to check XML markup files
+[2.653s] -- Configuring done
+[2.693s] -- Generating done
+[2.697s] -- Build files have been written to: /home/vyom/cognipilot/cranium/build/corti
+[2.715s] Invoked command in '/home/vyom/cognipilot/cranium/build/corti' returned '0': AMENT_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/vyom/cognipilot/cranium/src/corti -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/corti
+[2.716s] Invoking command in '/home/vyom/cognipilot/cranium/build/corti': AMENT_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/corti -- -j8 -l8
+[2.791s] [ 12%] Building CXX object CMakeFiles/tf_to_odom.dir/src/tf_to_odom.cpp.o
+[2.794s] [ 25%] Building C object CMakeFiles/bezier6.dir/src/casadi/bezier6.c.o
+[2.804s] [ 37%] Building CXX object CMakeFiles/odom_to_tf.dir/src/odom_to_tf.cpp.o
+[2.865s] [ 37%] Built target ament_cmake_python_symlink_corti
+[2.922s] [ 50%] Linking C static library libbezier6.a
+[3.029s] [ 50%] Built target bezier6
+[3.061s] [ 62%] Building CXX object CMakeFiles/rover_planner.dir/src/rover_planner.cpp.o
+[3.504s] running egg_info
+[3.506s] creating corti.egg-info
+[3.506s] writing corti.egg-info/PKG-INFO
+[3.507s] writing dependency_links to corti.egg-info/dependency_links.txt
+[3.508s] writing top-level names to corti.egg-info/top_level.txt
+[3.509s] writing manifest file 'corti.egg-info/SOURCES.txt'
+[3.514s] reading manifest file 'corti.egg-info/SOURCES.txt'
+[3.516s] writing manifest file 'corti.egg-info/SOURCES.txt'
+[3.571s] [ 62%] Built target ament_cmake_python_build_corti_egg
+[12.493s] [ 75%] Linking CXX executable tf_to_odom
+[13.001s] [ 75%] Built target tf_to_odom
+[17.233s] [ 87%] Linking CXX executable odom_to_tf
+[17.769s] [ 87%] Built target odom_to_tf
+[18.168s] [100%] Linking CXX executable rover_planner
+[18.683s] [100%] Built target rover_planner
+[18.694s] Invoked command in '/home/vyom/cognipilot/cranium/build/corti' returned '0': AMENT_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/corti -- -j8 -l8
+[18.722s] Invoking command in '/home/vyom/cognipilot/cranium/build/corti': AMENT_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/corti
+[18.730s] -- Install configuration: ""
+[18.730s] -- Execute custom install script
+[18.730s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/environment/pythonpath.sh
+[18.738s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/environment/pythonpath.dsv
+[18.746s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/PKG-INFO
+[18.754s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/SOURCES.txt
+[18.762s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/dependency_links.txt
+[18.769s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/top_level.txt
+[18.777s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/SE2Lie.py
+[18.785s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/TimeOptBez.py
+[18.792s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/__init__.py
+[18.800s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/bezier_rover_planning.py
+[18.808s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/rover_control.py
+[18.815s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/rover_planning.py
+[18.823s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/lib/corti/rover_planner
+[18.831s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/lib/corti/odom_to_tf
+[18.839s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/lib/corti/tf_to_odom
+[18.852s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/launch/corti.launch.py
+[18.860s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/launch/virtual_joy.launch.py
+[18.867s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/lib/corti/virtual_joy.py
+[18.875s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/lib/corti/rover_fixed_trajectory.py
+[18.883s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/ament_index/resource_index/package_run_dependencies/corti
+[18.891s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/ament_index/resource_index/parent_prefix_path/corti
+[18.899s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/environment/ament_prefix_path.sh
+[18.907s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/environment/ament_prefix_path.dsv
+[18.914s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/environment/path.sh
+[18.923s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/environment/path.dsv
+[18.931s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/local_setup.bash
+[18.938s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/local_setup.sh
+[18.946s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/local_setup.zsh
+[18.954s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/local_setup.dsv
+[18.962s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/package.dsv
+[18.970s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/ament_index/resource_index/packages/corti
+[18.978s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/cmake/cortiConfig.cmake
+[18.985s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/cmake/cortiConfig-version.cmake
+[18.993s] -- Symlinking: /home/vyom/cognipilot/cranium/install/corti/share/corti/package.xml
+[19.042s] Listing '/home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti'...
+[19.042s] Compiling '/home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/SE2Lie.py'...
+[19.042s] Compiling '/home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/TimeOptBez.py'...
+[19.043s] Compiling '/home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/__init__.py'...
+[19.043s] Compiling '/home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/bezier_rover_planning.py'...
+[19.043s] Compiling '/home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/rover_control.py'...
+[19.043s] Compiling '/home/vyom/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/rover_planning.py'...
+[19.050s] Invoked command in '/home/vyom/cognipilot/cranium/build/corti' returned '0': AMENT_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/corti

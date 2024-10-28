@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from synapse_msgs/msg/TrafficStatus.msg
+// generated code does not contain a copyright notice
+
+
+module synapse_msgs {
+  module msg {
+    module TrafficStatus_Constants {
+      const uint8 GREEN_LIGHT = 0;
+      const uint8 YELLOW_LIGHT = 1;
+      const uint8 RED_LIGHT = 2;
+    };
+    struct TrafficStatus {
+      boolean stop_sign;
+
+      uint8 traffic_light;
+    };
+  };
+};

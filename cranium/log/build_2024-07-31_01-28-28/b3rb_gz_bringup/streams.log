@@ -1,0 +1,36 @@
+[0.168s] Invoking command in '/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/cranium/src/b3rb_simulator/b3rb_gz_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/b3rb_gz_bringup
+[0.278s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.932s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.008s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.392s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.398s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.398s] -- Added test 'lint_cmake' to check CMake code style
+[1.404s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.406s] -- Added test 'xmllint' to check XML markup files
+[1.416s] -- Configuring done
+[1.451s] -- Generating done
+[1.482s] -- Build files have been written to: /home/vyom/cognipilot/cranium/build/b3rb_gz_bringup
+[1.506s] Invoked command in '/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake /home/vyom/cognipilot/cranium/src/b3rb_simulator/b3rb_gz_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vyom/cognipilot/cranium/install/b3rb_gz_bringup
+[1.508s] Invoking command in '/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/b3rb_gz_bringup -- -j8 -l8
+[1.695s] Invoked command in '/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/b3rb_gz_bringup -- -j8 -l8
+[1.900s] Invoking command in '/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/b3rb_gz_bringup
+[1.936s] -- Install configuration: ""
+[1.944s] -- Execute custom install script
+[1.945s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/launch/hil.launch.py
+[1.945s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/launch/sil.launch.py
+[1.945s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/ament_index/resource_index/package_run_dependencies/b3rb_gz_bringup
+[1.946s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/ament_index/resource_index/parent_prefix_path/b3rb_gz_bringup
+[1.947s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/environment/ament_prefix_path.sh
+[1.948s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/environment/ament_prefix_path.dsv
+[1.950s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/environment/path.sh
+[1.951s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/environment/path.dsv
+[1.956s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/local_setup.bash
+[1.957s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/local_setup.sh
+[1.961s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/local_setup.zsh
+[1.963s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/local_setup.dsv
+[1.964s] -- Symlinking: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/package.dsv
+[1.992s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/ament_index/resource_index/packages/b3rb_gz_bringup
+[1.995s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/cmake/b3rb_gz_bringupConfig.cmake
+[1.995s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/cmake/b3rb_gz_bringupConfig-version.cmake
+[1.996s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/b3rb_gz_bringup/share/b3rb_gz_bringup/package.xml
+[2.011s] Invoked command in '/home/vyom/cognipilot/cranium/build/b3rb_gz_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/b3rb_gz_bringup

@@ -1,0 +1,1 @@
+/home/vyom/cognipilot/cranium/build/synapse_msgs/ament_cmake_python/synapse_msgs/synapse_msgs.egg-info/top_level.txt

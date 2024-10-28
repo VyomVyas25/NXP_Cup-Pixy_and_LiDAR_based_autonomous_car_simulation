@@ -1,0 +1,196 @@
+[0.054s] Invoking command in '/home/vyom/cognipilot/cranium/build/synapse_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/synapse_msgs -- -j8 -l8
+[0.144s] [  1%] Built target synapse_msgs__cpp
+[0.177s] [ 12%] Built target synapse_msgs__rosidl_generator_c
+[0.197s] [ 12%] Built target ament_cmake_python_symlink_synapse_msgs
+[0.212s] [ 23%] Built target synapse_msgs__rosidl_typesupport_cpp
+[0.216s] [ 34%] Built target synapse_msgs__rosidl_typesupport_fastrtps_cpp
+[0.222s] [ 46%] Built target synapse_msgs__rosidl_typesupport_introspection_cpp
+[0.232s] [ 57%] Built target synapse_msgs__rosidl_typesupport_c
+[0.245s] [ 79%] Built target synapse_msgs__rosidl_typesupport_introspection_c
+[0.245s] [ 79%] Built target synapse_msgs__rosidl_typesupport_fastrtps_c
+[0.279s] [ 79%] Built target synapse_msgs
+[0.308s] [ 80%] Built target synapse_msgs__py
+[0.344s] [ 90%] Built target synapse_msgs__rosidl_generator_py
+[0.377s] [ 93%] Built target synapse_msgs__rosidl_typesupport_introspection_c__pyext
+[0.380s] [ 96%] Built target synapse_msgs__rosidl_typesupport_c__pyext
+[0.382s] [100%] Built target synapse_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.701s] running egg_info
+[0.703s] writing synapse_msgs.egg-info/PKG-INFO
+[0.703s] writing dependency_links to synapse_msgs.egg-info/dependency_links.txt
+[0.704s] writing top-level names to synapse_msgs.egg-info/top_level.txt
+[0.708s] reading manifest file 'synapse_msgs.egg-info/SOURCES.txt'
+[0.710s] writing manifest file 'synapse_msgs.egg-info/SOURCES.txt'
+[0.758s] [100%] Built target ament_cmake_python_build_synapse_msgs_egg
+[0.772s] Invoked command in '/home/vyom/cognipilot/cranium/build/synapse_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/vyom/cognipilot/cranium/build/synapse_msgs -- -j8 -l8
+[1.008s] Invoking command in '/home/vyom/cognipilot/cranium/build/synapse_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/synapse_msgs
+[1.020s] -- Install configuration: ""
+[1.020s] -- Execute custom install script
+[1.021s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/ament_index/resource_index/rosidl_interfaces/synapse_msgs
+[1.021s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/bezier_curve.h
+[1.021s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/bezier_trajectory.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__functions.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__struct.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__type_support.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__functions.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__struct.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__type_support.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__functions.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__struct.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__type_support.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__functions.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__struct.h
+[1.022s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__type_support.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__functions.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__struct.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__type_support.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__functions.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__struct.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__type_support.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/edge_vectors.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/pixy_vector.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/status.h
+[1.023s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/traffic_status.h
+[1.024s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/library_path.sh
+[1.024s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/library_path.dsv
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__rosidl_typesupport_fastrtps_c.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__rosidl_typesupport_fastrtps_c.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__rosidl_typesupport_fastrtps_c.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__rosidl_typesupport_fastrtps_c.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__rosidl_typesupport_fastrtps_c.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__rosidl_typesupport_fastrtps_c.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__rosidl_typesupport_introspection_c.h
+[1.025s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__rosidl_typesupport_introspection_c.h
+[1.026s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__rosidl_typesupport_introspection_c.h
+[1.026s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__rosidl_typesupport_introspection_c.h
+[1.026s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__rosidl_typesupport_introspection_c.h
+[1.026s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__rosidl_typesupport_introspection_c.h
+[1.026s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/bezier_curve.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/bezier_trajectory.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__builder.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__struct.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__traits.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__builder.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__struct.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__traits.hpp
+[1.027s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__builder.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__struct.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__traits.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__builder.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__struct.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__traits.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__builder.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__struct.hpp
+[1.028s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__traits.hpp
+[1.029s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__builder.hpp
+[1.029s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__struct.hpp
+[1.029s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__traits.hpp
+[1.029s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/edge_vectors.hpp
+[1.029s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/pixy_vector.hpp
+[1.030s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/status.hpp
+[1.030s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/traffic_status.hpp
+[1.030s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__rosidl_typesupport_fastrtps_cpp.hpp
+[1.030s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__rosidl_typesupport_fastrtps_cpp.hpp
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__rosidl_typesupport_fastrtps_cpp.hpp
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__rosidl_typesupport_fastrtps_cpp.hpp
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__rosidl_typesupport_fastrtps_cpp.hpp
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_curve__rosidl_typesupport_introspection_cpp.hpp
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/bezier_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[1.031s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/edge_vectors__rosidl_typesupport_introspection_cpp.hpp
+[1.032s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/pixy_vector__rosidl_typesupport_introspection_cpp.hpp
+[1.032s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/status__rosidl_typesupport_introspection_cpp.hpp
+[1.032s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/include/synapse_msgs/synapse_msgs/msg/detail/traffic_status__rosidl_typesupport_introspection_cpp.hpp
+[1.032s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/pythonpath.sh
+[1.032s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/pythonpath.dsv
+[1.032s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs-0.0.1-py3.10.egg-info/PKG-INFO
+[1.033s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs-0.0.1-py3.10.egg-info/SOURCES.txt
+[1.033s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs-0.0.1-py3.10.egg-info/dependency_links.txt
+[1.033s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs-0.0.1-py3.10.egg-info/top_level.txt
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/__init__.py
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/_synapse_msgs_s.ep.rosidl_typesupport_c.c
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/_synapse_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/_synapse_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/libsynapse_msgs__rosidl_generator_py.so
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/__init__.py
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_bezier_curve.py
+[1.034s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_bezier_curve_s.c
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_bezier_trajectory.py
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_bezier_trajectory_s.c
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_edge_vectors.py
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_edge_vectors_s.c
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_pixy_vector.py
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_pixy_vector_s.c
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_status.py
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_status_s.c
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_traffic_status.py
+[1.035s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg/_traffic_status_s.c
+[1.036s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/synapse_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.036s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/synapse_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.036s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/synapse_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.036s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/synapse_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.036s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/synapse_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.036s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/synapse_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.037s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/BezierCurve.idl
+[1.037s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/BezierTrajectory.idl
+[1.037s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/Status.idl
+[1.037s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/EdgeVectors.idl
+[1.038s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/TrafficStatus.idl
+[1.038s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/BezierCurve.msg
+[1.038s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/BezierTrajectory.msg
+[1.039s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/Status.msg
+[1.039s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/EdgeVectors.msg
+[1.039s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/msg/TrafficStatus.msg
+[1.039s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/ament_index/resource_index/package_run_dependencies/synapse_msgs
+[1.040s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/ament_index/resource_index/parent_prefix_path/synapse_msgs
+[1.040s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/ament_prefix_path.sh
+[1.040s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/ament_prefix_path.dsv
+[1.041s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/path.sh
+[1.041s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/environment/path.dsv
+[1.042s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/local_setup.bash
+[1.042s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/local_setup.sh
+[1.042s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/local_setup.zsh
+[1.042s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/local_setup.dsv
+[1.042s] -- Symlinking: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/package.dsv
+[1.052s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/ament_index/resource_index/packages/synapse_msgs
+[1.052s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/rosidl_cmake-extras.cmake
+[1.052s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.053s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.053s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.053s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.053s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.053s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.053s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgsConfig.cmake
+[1.053s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgsConfig-version.cmake
+[1.054s] -- Up-to-date symlink: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/package.xml
+[1.054s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_generator_c.so
+[1.055s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_typesupport_fastrtps_c.so
+[1.055s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_typesupport_introspection_c.so
+[1.056s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_typesupport_c.so
+[1.057s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.057s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_typesupport_introspection_cpp.so
+[1.057s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_typesupport_cpp.so
+[1.105s] Listing '/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs'...
+[1.105s] Listing '/home/vyom/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages/synapse_msgs/msg'...
+[1.109s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/lib/libsynapse_msgs__rosidl_generator_py.so
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_generator_cExport.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_cExport.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.110s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_generator_cppExport.cmake
+[1.111s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.111s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.111s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.111s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.111s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_cppExport.cmake
+[1.111s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/synapse_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.112s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_generator_pyExport.cmake
+[1.112s] -- Up-to-date: /home/vyom/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake/export_synapse_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.115s] Invoked command in '/home/vyom/cognipilot/cranium/build/synapse_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vyom/cognipilot/cranium/install/nxp_cup_vision:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/vyom/cognipilot/cranium/build/synapse_msgs

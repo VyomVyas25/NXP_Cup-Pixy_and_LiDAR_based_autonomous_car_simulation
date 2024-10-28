@@ -1,0 +1,34 @@
+[1.751s] Invoking command in '/home/vyom/cognipilot/cranium/build/b3rb_ros_line_follower': CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/home/vyom/cognipilot/cranium/install/synapse_ros:/home/vyom/cognipilot/cranium/install/synapse_gz:/home/vyom/cognipilot/cranium/install/synapse_tinyframe:/home/vyom/cognipilot/cranium/install/synapse_protobuf:/home/vyom/cognipilot/cranium/install/corti:/home/vyom/cognipilot/cranium/install/dream_world:/home/vyom/cognipilot/cranium/install/cerebri_bringup:/home/vyom/cognipilot/cranium/install/b3rb_simulator:/home/vyom/cognipilot/cranium/install/b3rb_desktop:/home/vyom/cognipilot/cranium/install/b3rb_rviz:/home/vyom/cognipilot/cranium/install/b3rb_nav2:/home/vyom/cognipilot/cranium/install/b3rb_gz_resource:/home/vyom/cognipilot/cranium/install/b3rb_gz_bringup:/home/vyom/cognipilot/cranium/install/b3rb_description:/home/vyom/cognipilot/electrode/install/electrode LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:/home/vyom/cognipilot/cranium/install/synapse_tinyframe/lib:/home/vyom/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/vyom/cognipilot/cranium/build/b3rb_ros_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vyom/cognipilot/cranium/build/b3rb_ros_line_follower/build --no-deps symlink_data
+[1.982s] /home/vyom/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:268: UserWarning: Unknown distribution option: 'tests_require'
+[1.982s]   warnings.warn(msg)
+[2.233s] running develop
+[2.234s] /home/vyom/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.234s] !!
+[2.234s] 
+[2.234s]         ********************************************************************************
+[2.234s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.234s]         Instead, use pypa/build, pypa/installer or other
+[2.234s]         standards-based tools.
+[2.234s] 
+[2.234s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.234s]         ********************************************************************************
+[2.235s] 
+[2.235s] !!
+[2.235s]   easy_install.initialize_options(self)
+[2.559s] running egg_info
+[2.582s] writing b3rb_ros_line_follower.egg-info/PKG-INFO
+[2.582s] writing dependency_links to b3rb_ros_line_follower.egg-info/dependency_links.txt
+[2.582s] writing entry points to b3rb_ros_line_follower.egg-info/entry_points.txt
+[2.583s] writing requirements to b3rb_ros_line_follower.egg-info/requires.txt
+[2.583s] writing top-level names to b3rb_ros_line_follower.egg-info/top_level.txt
+[2.634s] reading manifest file 'b3rb_ros_line_follower.egg-info/SOURCES.txt'
+[2.635s] writing manifest file 'b3rb_ros_line_follower.egg-info/SOURCES.txt'
+[2.732s] running build_ext
+[2.732s] Creating /home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower/lib/python3.10/site-packages/b3rb-ros-line-follower.egg-link (link to .)
+[2.733s] Installing detect script to /home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower/lib/b3rb_ros_line_follower
+[2.734s] Installing runner script to /home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower/lib/b3rb_ros_line_follower
+[2.734s] Installing vectors script to /home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower/lib/b3rb_ros_line_follower
+[2.734s] 
+[2.734s] Installed /home/vyom/cognipilot/cranium/build/b3rb_ros_line_follower
+[2.734s] running symlink_data
+[2.797s] Invoked command in '/home/vyom/cognipilot/cranium/build/b3rb_ros_line_follower' returned '0': CMAKE_PREFIX_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs:/home/vyom/cognipilot/cranium/install/synapse_ros:/home/vyom/cognipilot/cranium/install/synapse_gz:/home/vyom/cognipilot/cranium/install/synapse_tinyframe:/home/vyom/cognipilot/cranium/install/synapse_protobuf:/home/vyom/cognipilot/cranium/install/corti:/home/vyom/cognipilot/cranium/install/dream_world:/home/vyom/cognipilot/cranium/install/cerebri_bringup:/home/vyom/cognipilot/cranium/install/b3rb_simulator:/home/vyom/cognipilot/cranium/install/b3rb_desktop:/home/vyom/cognipilot/cranium/install/b3rb_rviz:/home/vyom/cognipilot/cranium/install/b3rb_nav2:/home/vyom/cognipilot/cranium/install/b3rb_gz_resource:/home/vyom/cognipilot/cranium/install/b3rb_gz_bringup:/home/vyom/cognipilot/cranium/install/b3rb_description:/home/vyom/cognipilot/electrode/install/electrode LD_LIBRARY_PATH=/home/vyom/cognipilot/cranium/install/synapse_msgs/lib:/home/vyom/cognipilot/cranium/install/synapse_tinyframe/lib:/home/vyom/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/vyom/cognipilot/cranium/build/b3rb_ros_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vyom/cognipilot/cranium/install/b3rb_ros_line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vyom/cognipilot/cranium/build/b3rb_ros_line_follower/build --no-deps symlink_data

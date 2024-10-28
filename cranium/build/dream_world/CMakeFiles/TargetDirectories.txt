@@ -1,0 +1,9 @@
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/uninstall.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/dream_world_uninstall.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/test.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/edit_cache.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/rebuild_cache.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/list_install_components.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/install.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/install/local.dir
+/home/vyom/cognipilot/cranium/build/dream_world/CMakeFiles/install/strip.dir
