@@ -1,37 +1,67 @@
-# NXP_Cup-Pixy_and_LiDAR_based_autonomous_car_simulation
-
 NXP Cup - Pixy and LiDAR Based Autonomous Car Simulation
 
+This repository contains the code and files for an autonomous car simulation developed for the NXP Cup. The car utilizes Pixy and LiDAR sensors to follow a track, avoid obstacles, and respond to various track signals.
+Table of Contents
 
-## Overview
+    Project Overview
+    Features
+    Project Structure
+    Setup Instructions
+    Usage
+    Contributing
 
-    -This project is part of the NXP Cup, where a simulated autonomous car is programmed to follow a track, detect obstacles, and      respond to various visual and sensor inputs using Pixy and LiDAR data. This setup combines ROS2 for communication, Python for control algorithms, and specific messages for line detection, obstacle avoidance, and speed adjustments.
+Project Overview
 
+The project combines ROS2 for communication and control, Python for scripting the main behavior, and Pixy and LiDAR data to achieve robust autonomous driving and obstacle avoidance.
+Features
 
-## Project Structure
+    Autonomous Mode: Tracks lines using edge vectors.
+    Obstacle Detection: Uses LIDAR for real-time detection.
+    Traffic Control: Responds to stop signs and turns.
 
-    1. cranium - Core files for processing Pixy camera data and LIDAR input.
-    2. electrode, helmet - Modules for sensor integration.
-    3. installer, node_modules - Setup and dependency files for running the project.
-    4. b3rb_ros_line_follower.py - Main Python file controlling the vehicle, including line following and obstacle detection.
+Project Structure
 
+    cranium - Core files for processing Pixy camera and LIDAR data.
+    electrode, helmet - Modules for integrating other sensors.
+    installer, node_modules - Setup and dependency files.
+    b3rb_ros_line_follower.py - Main code for line-following and obstacle detection.
 
-## Setup Instructions
+Setup Instructions
 
-    Clone the Repository
-      git clone https://github.com/VyomVyas25/NXP_Cup-Pixy_and_LiDAR_based_autonomous_car_simulation.git
-    Install Dependencies
-      cd NXP_Cup-Pixy_and_LiDAR_based_autonomous_car_simulation
-      ./installer/setup.sh
-    Run the Simulation
-      ros2 launch b3rb_gz_bringup sil.launch.py world:=Raceway_1
-    Run the nodes
-      ros2 run b3rb_ros_line_follower vectors
-      ros2 run b3rb_ros_line_follower runner
+    Clone the repository:
 
-      
-## Key Features
+    bash
 
-    1.Autonomous Mode: Line following using edge vectors.
-    2.Obstacle Detection: LIDAR scans for real-time obstacle avoidance.
-    3.Traffic Control: Responds to stop signs and turns based on traffic conditions.
+git clone https://github.com/VyomVyas25/NXP_Cup-Pixy_and_LiDAR_based_autonomous_car_simulation.git
+
+Navigate to the project directory and install dependencies:
+
+bash
+
+cd NXP_Cup-Pixy_and_LiDAR_based_autonomous_car_simulation
+./installer/setup.sh
+
+Launch the simulation environment:
+
+bash
+
+    ros2 launch b3rb_gz_bringup sil.launch.py world:=Raceway_1
+
+Usage
+
+    Run the Line-Following Node:
+
+    bash
+
+ros2 run b3rb_ros_line_follower vectors
+
+Start the Vehicle Controller:
+
+bash
+
+    ros2 run b3rb_ros_line_follower runner
+
+Contributing
+
+Please feel free to contribute to this project by submitting issues or pull requests.
+
