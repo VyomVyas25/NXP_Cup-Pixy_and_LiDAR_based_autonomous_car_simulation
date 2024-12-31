@@ -30,15 +30,15 @@ This project uses **ROS2** for inter-component communication and control, along 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/VyomVyas25/NXP_Cup-Pixy_and_LiDAR_based_autonomous_car_simulation.git
-2.**Install Dependencies**:
+2. **Install Dependencies**:
    ```bash
    cd NXP_Cup-Pixy_and_LiDAR_based_autonomous_car_simulation./installer/setup.sh
-3.**Launch the Simulation**:
+3. **Launch the Simulation**:
    ```bash
    ros2 launch b3rb_gz_bringup sil.launch.py world:=Raceway_1
-4.**Run Line Following**:
+4. **Run Line Following**:
    ```bash
    ros2 run b3rb_ros_line_follower vectors
-5.**Start the Vehicle Controller**:
+5. **Start the Vehicle Controller**:
    ```bash
    ros2 run b3rb_ros_line_follower runner
